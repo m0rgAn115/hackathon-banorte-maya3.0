@@ -1,5 +1,5 @@
 
-# MAYA 2.0
+# MAYA 3.0
 
 MAYA 2.0 es la nueva versión de nuestro asistente financiero innovador, diseñado para ayudar a las personas a gestionar sus finanzas de manera inteligente y sencilla. Esta versión incorpora nuevas funcionalidades que hacen que el manejo del dinero sea automático, eficiente y personalizado, ayudando a los usuarios a alcanzar sus metas financieras sin complicaciones.
 
